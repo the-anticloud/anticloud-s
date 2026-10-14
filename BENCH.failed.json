@@ -1,0 +1,10 @@
+{
+  "project": "S",
+  "category": "LAPTOPS",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\LAPTOPS\\S",
+  "status": "failed",
+  "reason": "no 40-hex git HEAD SHA (head='REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE'; sanitized clone or .git absent)",
+  "files_count": 146,
+  "lines_of_code": 6800,
+  "sha": "REMOVED_CONTAMINATED_SHA_PENDING_API_RESOLVE"
+}
